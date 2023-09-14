@@ -1,2 +1,2 @@
 # Data-Science-Assignments
-# Contains all the data science assignments
+Contains all the data science assignments
