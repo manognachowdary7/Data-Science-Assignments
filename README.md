@@ -1,3 +1,3 @@
 # Data-Science-Assignments
-### Contains all data science assignment links and assignment folders here 
+### Contains all data science course assignments
 
